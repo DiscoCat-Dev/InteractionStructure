@@ -41,7 +41,7 @@ The model posits a system of autonomous agents operating under predetermined rul
 The model conceptualizes agents embedded in a network, each linked to their neighbors, forming a structured pattern of interaction.
 
 <p align="center">
-  <img src="von_neumann_2.png" alt="structure" width="500">
+  <img src="von_neumann_2.png" alt="structure" width="400">
 </p>
 
 In general, each agent (referred to as *Ego*) is linked to four neighbors ($Alter_{1 \dots n}$​) located within the Von Neumann neighborhood. Each agent interacts with a subset of these neighbors, ranging from 1 up to $n$. In the immediate Von Neumann neighborhood, an agent interacts with up to four neighbors.
