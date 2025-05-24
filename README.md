@@ -16,6 +16,8 @@
 
 - [Note on Limitations](#note-on-limitations)
 
+- [Citation](#citation)
+
 - [Miscellaneous](#miscellaneous)
 
 ## Overview
@@ -157,6 +159,11 @@ Richard McElreath and Robert Boyd, in *Mathematical Models of Social Evolution* 
 ## A Tip for Game Developers
 
 The procedure employed in this model to generate world patterns can serve as an effective tool for procedural terrain generation in 2D RPG games, and potentially even in 3D game environments.
+
+## Citation 
+
+If you are going to use this for your research or projects, please consider citing it as: DiscoCat-Dev. (2025). Structure of Social Interaction Model. [GitHub Repository](https://github.com/DiscoCat-Dev/InteractionStructure).
+
 
 ## Miscellaneous
 
